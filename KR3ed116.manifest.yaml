@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed116_000.yaml, hash: 'sha256:e11b1ea4990efbc6247dac6cea950b03f53d40b676248ccb5111842276555b86'}
+  - {seq: 0, filename: KR3ed116_000.yaml, hash: 'sha256:8d57c33b19061fe3e674bb983420856769745d117a389e5c137ce87b25e2f80a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed116_000.markers.yaml, hash: 'sha256:ea049313376c2f72cec9f1cdde97f8ad715c86c467a5740d826eba391941160c'}
+  - {seq: 0, role: markers, filename: assets/KR3ed116_000.markers.yaml, hash: 'sha256:8da5dec3bb47c6cd85975e6530b79dd5cb8f62ffa0e78c3b647f614dfeea036a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2371,7 +2371,4 @@ table_of_contents:
   label: 法制清寧丸方
   type: section
   level: 2
-hash: sha256:a782e6fac5810e76a0392a20c325fbd21b58feb46a3faac3b809716ef67e2d7c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cd40fc0f385afef59b505ebee45f968c65436f2277d7af1f4965bdaf54ec4651
