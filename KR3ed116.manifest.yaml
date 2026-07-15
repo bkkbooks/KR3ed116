@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed116/v1
 canonical_location: https://kanripo.org/bkk/KR3ed116/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 絳囊撮要
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed116_000.yaml, hash: 'sha256:8d57c33b19061fe3e674bb983420856769745d117a389e5c137ce87b25e2f80a'}
+  - {seq: 0, filename: KR3ed116_000.yaml, hash: 'sha256:1ed9cf824585e042fcf523110afe7375fdaf7366aa9542c29b3a6835d5bc984b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed116_000.markers.yaml, hash: 'sha256:8da5dec3bb47c6cd85975e6530b79dd5cb8f62ffa0e78c3b647f614dfeea036a'}
+  - {seq: 0, role: markers, filename: assets/KR3ed116_000.markers.yaml, hash: 'sha256:4bbdb1448c5212ba95dd026de3f4bdb1b01f0e377d62fbb61b420e4f4605cd18'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2371,4 +2371,7 @@ table_of_contents:
   label: 法制清寧丸方
   type: section
   level: 2
-hash: sha256:cd40fc0f385afef59b505ebee45f968c65436f2277d7af1f4965bdaf54ec4651
+hash: sha256:84d068dceb47746896c8e57b5c7ecffc9031c95ac3cb516c562a6b9eb304509f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
