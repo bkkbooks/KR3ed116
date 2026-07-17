@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed116_000-jc.yaml, hash: 'sha256:8d57c33b19061fe3e674bb983420856769745d117a389e5c137ce87b25e2f80a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed116_000-jc.markers.yaml, hash: 'sha256:840e01ac66a8ea3984d850e25c5ca560c2cb1216d81572bdcdd91ee4ad7cc75b'}
+  - {seq: 0, role: markers, filename: assets/KR3ed116_000-jc.markers.yaml, hash: 'sha256:f68f4c87eaf6c886804b928f3edf7e02caa67170a6861e603b3cc781a7fa49ff'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2371,4 +2371,4 @@ table_of_contents:
   label: 法制清寧丸方
   type: section
   level: 2
-hash: sha256:4272fcfdfbcad0a9a49f8be7fd6fede524d241afcdf7f2999b4b94e1dc8eb1ee
+hash: sha256:040fe7814df49acc869b3b7af7d79d48fca440efe6f6841d1cc1826dcde54db1
